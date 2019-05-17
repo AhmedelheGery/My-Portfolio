@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="768" viewBox="0 0 1366 768">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#085ad5"/>
+      <stop offset="1" stop-color="#042d6b"/>
+    </linearGradient>
+    <clipPath id="clip-Web_1366_1">
+      <rect width="1366" height="768"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1366_1" data-name="Web 1366 – 1" clip-path="url(#clip-Web_1366_1)">
+    <rect width="1366" height="768" fill="#1e1e1e"/>
+    <path id="Path_2" data-name="Path 2" d="M1979.505,0H681.756S711.18,211.468,396.778,211.468,0,343.635,0,343.635V0Z" transform="translate(0 -49.83)" fill="#1573d1"/>
+    <path id="Path_1" data-name="Path 1" d="M1979.505,0H681.756S711.18,211.468,396.778,211.468,0,343.635,0,343.635V0Z" transform="translate(0 -82.83)" fill="#085ad5"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1244 231)" stroke="#707070" stroke-width="1" opacity="0.08" fill="url(#linear-gradient)">
+      <circle cx="107" cy="107" r="107" stroke="none"/>
+      <circle cx="107" cy="107" r="106.5" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(-107 661)" stroke="#707070" stroke-width="1" opacity="0.07" fill="url(#linear-gradient)">
+      <circle cx="107" cy="107" r="107" stroke="none"/>
+      <circle cx="107" cy="107" r="106.5" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(975 44)" fill="none" stroke="#707070" stroke-width="1">
+      <circle cx="39" cy="39" r="39" stroke="none"/>
+      <circle cx="39" cy="39" r="38.5" fill="none"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(705 661)" fill="none" stroke="#085ad5" stroke-width="1">
+      <circle cx="39" cy="39" r="39" stroke="none"/>
+      <circle cx="39" cy="39" r="38.5" fill="none"/>
+    </g>
+  </g>
+</svg>
